@@ -1,4 +1,4 @@
-gsap.registerPlugin(ScrollTrigger);
+gsap.registerPlugin(ScrollTrigger)
 
 
 gsap.to("#square1", 
